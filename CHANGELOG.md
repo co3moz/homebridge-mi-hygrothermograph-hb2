@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.5.1
+
+* Updated repository metadata after the GitHub repository rename.
+
 ## 3.5.0
 
 * Fixed compatibility with Homebridge 2.x / HAP-NodeJS 2.x by using `Service.Battery` when available.
