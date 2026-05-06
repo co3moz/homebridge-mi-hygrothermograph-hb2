@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Niklas31/mi-hygrothermograph-HB2.git"
+    "url": "git+https://github.com/Niklas31/homebridge-mi-hygrothermograph-hb2.git"
   },
   "bugs": {
-    "url": "https://github.com/Niklas31/mi-hygrothermograph-HB2/issues"
+    "url": "https://github.com/Niklas31/homebridge-mi-hygrothermograph-hb2/issues"
   },
-  "homepage": "https://github.com/Niklas31/mi-hygrothermograph-HB2#readme",
+  "homepage": "https://github.com/Niklas31/homebridge-mi-hygrothermograph-hb2#readme",
   "files": [
     "index.js",
     "config-sample.json",
