@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.5.2-beta.1
+
+* Fixed the npm publish workflow failing due to an npm version incompatible with the runner's Node version.
+
 ## 3.5.2-beta.0
 
 * Converted the plugin to a Homebridge dynamic platform (was an accessory plugin).
