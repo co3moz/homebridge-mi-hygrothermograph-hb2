@@ -1,4 +1,5 @@
 # homebridge-mi-hygrothermograph-hb2
+[![verified-by-homebridge](https://img.shields.io/badge/_-verified-blueviolet?color=%23491F59&style=flat&logoColor=%23FFFFFF&logo=homebridge)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
 [![npm](https://img.shields.io/npm/v/homebridge-mi-hygrothermograph-hb2.svg)](https://www.npmjs.com/package/homebridge-mi-hygrothermograph-hb2)
 
 [Homebridge](https://github.com/nfarina/homebridge) plugin for exposing measured temperature, humidity and plant metrics from Xiaomi sensors as [HomeKit](https://www.apple.com/ios/home/) accessories.
