@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.5.4
+## 3.6.0
 
 * Made `@stoprocent/noble` an optional dependency and load it defensively, so the
   plugin still loads on systems where the native BLE bindings fail to build
